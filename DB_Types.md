@@ -1,6 +1,6 @@
 # Time series databases
 
-	Time series databases are designed based on the idea that data changes through time. Some visualize this type of data bases as sequence of data points over time, stored in time order. Time is the central piece of times-series databases. For each "timestamp" we have records for the metrics. (Table example)
+Time series databases are designed based on the idea that data changes through time. Some visualize this type of data bases as sequence of data points over time, stored in time order. Time is the central piece of times-series databases. For each "timestamp" we have records for the metrics. (Table example)
 
 There are two ways of managing the data, each table for each metric where the metric is the ID of the table or collection of different metrics per time.
 
