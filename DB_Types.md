@@ -38,4 +38,13 @@ For know there are some solutions for this problem:
 
 
 
-# Search databases
+# Search Engine databases
+Search-engine databases are characterized for being optimizad for searching data content. Indexes are used to categorize similar characteristics among the data. This types of databases are made for working with data that is not structured, long registers and normal registers. Really useful for task where specific data retrival of not structured data is constantly done. 
+
+
+# References
+
+- https://aws.amazon.com/es/nosql/
+- https://severalnines.com/database-blog/introduction-time-series-databases
+- https://www.timescale.com
+- https://www.profesionalreview.com/2018/12/08/nvram/
