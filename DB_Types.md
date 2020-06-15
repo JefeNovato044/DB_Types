@@ -4,9 +4,9 @@
 
 There are two ways of managing the data, each table for each metric where the metric is the ID of the table or collection of different metrics per time.
 
-Some examples here
+An example of the format here:
 
-[IMAGE]
+![](TS-DB.png)
 
 You may wonder, if there are a lot of databases that manage timestamps, for example SQL. Why use them? Time series databases are highly optimized for managing data using time as an identifier. The idea of the optimizations comes from this assumptions of the use of time series data base:
 
